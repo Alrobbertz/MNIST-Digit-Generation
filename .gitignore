@@ -1,0 +1,17 @@
+/__pycache__
+/.idea
+/.ipynb_checkpoints
+/.vscode
+/data
+/logs
+/checkpoints
+/images
+
+*.zip
+*.docx
+*.txt
+*.pdf
+
+*.pkl
+*.h5
+*.json
