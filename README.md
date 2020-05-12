@@ -2,7 +2,7 @@
 
 
 ## Goal
-In this assignment you will be asked to implement a Generative Adversarial Networks (GAN) with [MNIST data set](http://yann.lecun.com/exdb/mnist/). This project will be completed in Python 3 using [Keras](https://keras.io/). 
+This project implemented a Generative Adversarial Network (GAN) with [MNIST data set](http://yann.lecun.com/exdb/mnist/). This project was completed in Python 3 using [Keras](https://keras.io/). 
 
 <img src="https://github.com/alrobbertz/MNIST-Digit-Generation/blob/master/pic/goal.png" width="80%">
 
@@ -16,5 +16,5 @@ The Feed-Forward model setup showed good results for generating MNIST digits. It
 
 The image below shows a sample of 100 random digits generated. 
 
-<img src="https://github.com/alrobbertz/MNIST-Digit-Generation/blob/master/pic/final_digits.png" width="80%">
+<img src="https://github.com/alrobbertz/MNIST-Digit-Generation/blob/master/pic/sample-ff-dr0-LR.png" width="80%">
 
