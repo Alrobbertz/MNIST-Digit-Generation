@@ -16,5 +16,5 @@ The Feed-Forward model setup showed good results for generating MNIST digits. It
 
 The image below shows a sample of 100 random digits generated. 
 
-<img src="https://github.com/alrobbertz/MNIST-Digit-Generation/blob/master/pic/sample-ff-dr0-LR.png" width="80%">
+<img src="https://github.com/alrobbertz/MNIST-Digit-Generation/blob/master/pic/sample-ff-dr0-LR.png" width="60%">
 
